@@ -1,3 +1,4 @@
+#!/bin/bash
 #batchjob submitter for castepsub in HPC clusters
 
 cores="100"
