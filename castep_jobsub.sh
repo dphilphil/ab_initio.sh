@@ -22,4 +22,4 @@ for folder in */; do
 	#submit job to cluster
 	castepsub -n $cores -W $time $fname
 	cd ../
-done 
+done
