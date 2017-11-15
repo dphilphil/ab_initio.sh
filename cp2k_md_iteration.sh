@@ -1,5 +1,4 @@
 #!/bin/bash
-
 echo "Written by https://github.com/dphilphil"
 
 for (( it=1; it<=200; it++ )) #iterations
