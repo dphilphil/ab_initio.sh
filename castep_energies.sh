@@ -1,7 +1,5 @@
 #!/bin/bash
-
 echo "Written by https://github.com/dphilphil"
-
 
 for folder in */; do
 	cd $folder
